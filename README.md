@@ -1,4 +1,3 @@
 # githubworkshop
 
-# Add a important line 1
-# Add a important line 2
+Learning to use GitHub to share my University projects.
